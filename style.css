@@ -3,7 +3,10 @@ img {
 }
 body{
     color: white;
-    background-color: navy;
+    background-color: seagreen;
     text-align: center;
     font-family: 'Papyrus';
+}
+#SPECIAL_ATTACK {
+    color:blue
 }
